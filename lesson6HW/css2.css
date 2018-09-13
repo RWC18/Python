@@ -1,0 +1,13 @@
+table, td{
+	border: 5px dashed blue;
+	padding: 5px;
+}
+
+table{
+	margin: 50px auto;
+	background-color:  #1C00F6;
+}
+
+td{
+	background-color:  #039DAF;
+}

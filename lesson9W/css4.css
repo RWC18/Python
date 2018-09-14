@@ -1,0 +1,65 @@
+*{font-size: 0px;}
+
+body{
+	background-color: black;
+}
+
+.main{
+	/*background-color: rgba(0,255,0,0.2);*/
+	width: 1300px;
+	height: 500px;
+	margin: 50px auto;
+}
+
+.box{
+	width: 400px; 
+	height: 500px;
+	display: inline-block;
+	/*background-color: rgba(0,200,0,0.2);*/
+	margin-right: 50px;
+	vertical-align: top;
+}
+
+.rb{
+	margin-right: 0px;
+}
+
+.med{
+	width: 90px;
+	height: 90px;
+	background-color: lime;
+	display: inline-block;
+	margin-right: 13px;
+	margin-bottom: 13px;
+}
+
+.mr{
+	margin-right: 0px;
+}
+
+.big{
+	width: 192px;
+	height: 90px;
+	background-image: url(images/arrowlogo.jpg);
+	background-size: 120% 150%;
+	background-position: center;
+}
+
+.br{
+	margin-right: 0px;
+	background-size: 50% 80%;
+	background-repeat: no-repeat;
+}
+
+.box div:hover{
+	transform: scale(0.7);
+
+}
+
+.box div{
+	transition: 1s;
+}
+
+.arrow{
+	border:2px solid lime;
+}

@@ -1,0 +1,12 @@
+body{
+	background-image: url(images/arrow.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 5% 40%;
+	background-attachment: fixed;
+}
+
+iframe{
+	display: block;
+	margin: 25px auto;
+}

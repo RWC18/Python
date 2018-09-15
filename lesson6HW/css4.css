@@ -17,11 +17,11 @@ td:hover{
 
 .center{
 	padding-left: 80px;
-	transition: 2s;
+	transition: 10s;
 }
 
 .center:hover{
-	transform: rotate3d(360, 360, 360, 360deg);
+	transform: rotate3d(180, 480, 360, 36000deg);
 }
 
 img{

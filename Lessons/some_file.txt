@@ -1,0 +1,5 @@
+START OF THE TXT
+first line
+second line
+third line
+END OF TXT('the answer', 42)
